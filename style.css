@@ -35,7 +35,7 @@
   transition: all 0.2s ease-in-out;
 }
 .form-container form:hover {
-  transform: scaleY(1.2);
+  transform: scaleY(1.1);
 }
 .form-container form h3 {
   font-size: 30px;
